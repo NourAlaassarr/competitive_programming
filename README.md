@@ -1,2 +1,2 @@
 
-This repository houses all of my accepted submissions on CodeForces.
+This repository houses some of my accepted submissions on CodeForces.
