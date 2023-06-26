@@ -1,0 +1,2 @@
+problem:C - Beginner 
+link:https://vjudge.net/contest/459458#problem/C
